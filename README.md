@@ -1,6 +1,6 @@
 # RFID Self-Service Library Management System
 
-A full-stack library management system built, as part of Senior Capstone project for the Computer Science Department at Earlham College. The system has a student user interface, for students to look up items and perform self check-in and check out. The administrator interface allows the department add and manage device and user information, as well as to set measure on check-in and check out operations. 
+A self-service library management system using RFID technology built as part of Senior Capstone project for the Computer Science Department at Earlham College. The two-tier user system allows students to look up items and perform self check-in and check out. The administrator interface allows the department to add and manage library items and to set up security measures such as maximum number of items per user, or maximum checkout time for an item. 
 
 
 ## Tech Stack
