@@ -1,0 +1,4 @@
+django===2.1
+django-tempus-dominus
+django-crispy-forms
+django-extensions
